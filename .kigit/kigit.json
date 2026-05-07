@@ -1,0 +1,27 @@
+{
+  "export": {
+    "auto_export": true,
+    "run_drc_guard": false,
+    "export_pdf": true,
+    "export_bom": true,
+    "export_layers_svg": true,
+    "export_gerbers": true,
+    "export_drill": true,
+    "export_images": true,
+    "export_step": true,
+    "export_glb": true
+  },
+  "backup_base_dir": ".kigit-backups",
+  "ui": {
+    "dlg_size": [
+      1236,
+      822
+    ],
+    "dlg_pos": [
+      2022,
+      145
+    ],
+    "main_sash": 622,
+    "timeline_sash": 723
+  }
+}
